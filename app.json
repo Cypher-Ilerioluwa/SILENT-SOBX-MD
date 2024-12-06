@@ -1,22 +1,22 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "ÀKÀNDÉ-MIDÉ-BOT🤖🌹🍀",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "logo": "https://telegra.ph/file/8fed3725a6d912aedc601.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "izAASYAI#hkkUAz1lFME46iylE5KzdKBJm4RZHKPjDFz32h9Sd8A",
       "required": true,
-      "value": ""
+      "value": "izAASYAI#hkkUAz1lFME46iylE5KzdKBJm4RZHKPjDFz32h9Sd8A"
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://telegra.ph/file/8fed3725a6d912aedc601.jpg",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://telegra.ph/file/8fed3725a6d912aedc601.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -28,13 +28,13 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "/"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "✦ÀKÀNDÉ-MIDÉ-BOT🤖🌹🍀✦"
     }, 
 
     "HEART_REACT": {
@@ -112,7 +112,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY CYPHER Ìléríolúwa"
     }
 
 },
